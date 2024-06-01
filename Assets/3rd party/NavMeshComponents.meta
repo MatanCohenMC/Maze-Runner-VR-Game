@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/2.5.1.meta
+<<<<<<< Updated upstream
+guid: ab95e6935f7663d43a4d3b10fbaf21b9
+=======
+guid: 36fcdadced6d0d646aa227bc519e7275
+>>>>>>> Stashed changes
+========
+guid: ceee39b629ef41c44aa5aa536d60688a
+>>>>>>>> main:Assets/3rd party/NavMeshComponents.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

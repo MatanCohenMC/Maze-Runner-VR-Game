@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/2.5.1/Starter Assets.meta
+guid: 4190cf6165f994c4a97b098e9b8904c4
+folderAsset: yes
+DefaultImporter:
+========
+guid: 05adda50b5cc32d49b6dbf0c455b2743
+AssemblyDefinitionImporter:
+>>>>>>>> main:Assets/3rd party/NavMeshComponents/Editor/NavMeshComponentsEditor.asmdef.meta
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
