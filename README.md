@@ -3,8 +3,11 @@
 This is a VR game developed for the Oculus Quest 2 using Unity. To play the game on your Oculus Quest 2 or in XR Device Simulator on your PC, follow the steps below.
 
 https://github.com/MatanCohenMC/VR-Game-Maze-Runner/assets/65343660/921c8df2-aeb6-4a33-99a5-ae38b7b40063
+
 https://github.com/MatanCohenMC/VR-Game-Maze-Runner/assets/65343660/0a0bed57-f04b-416d-959b-26131df06c00
+
 https://github.com/MatanCohenMC/VR-Game-Maze-Runner/assets/65343660/43f4f07b-f1b4-403c-a598-27a8a22ce7ef
+
 https://github.com/MatanCohenMC/VR-Game-Maze-Runner/assets/65343660/0a6ae63a-6386-494a-9ac5-0d6e6d54e4cb
 
 ### Playing on Oculus Quest 2
