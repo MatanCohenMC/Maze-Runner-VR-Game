@@ -85,8 +85,7 @@ This is a VR game developed for the Oculus Quest 2 using Unity. To play the game
 
 ### Installation
 1. **Download the APK File**
-   - Go to the [Maze Runner GitHub Releases page](https://github.com/yourusername/maze-runner/releases).
-   - Find the latest release and download the `maze-runner.apk` file to your computer or directly to your VR device.
+   - Find the latest release and download the `maze-runner-vr.apk` file to your computer or directly to your VR device.
 
 2. **Transfer the APK File to Your VR Device (if downloaded on a computer)**
    - Connect your VR device to your computer using a USB cable.
