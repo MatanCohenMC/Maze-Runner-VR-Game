@@ -9,7 +9,7 @@ Maze Runner is an immersive game where players navigate through mazes, encounter
 - **Movement**: Move in space using the joystick on the left remote.
 - **Looking Around**: Look around in space by moving your head.
 - **Grabbing Objects**: Use the Hand Triggers buttons on the remotes to grab different objects.
-<img src="/Gameplay Videos/GIF - part 1.gif" width="250" height="250"/>
+<img src="/Gameplay Videos/Part 1.gif" width="250" height="250"/>
 
 ### Main Menu
 - The main menu offers the following options:
@@ -21,7 +21,7 @@ Maze Runner is an immersive game where players navigate through mazes, encounter
 ### Game Start
 - The player begins at the starting point of the maze with a full health meter (100 HP).
 - The objective is to find the exit of the maze.
-<img src="/Gameplay Videos/GIF - part 2.gif" width="250" height="250"/>
+<img src="/Gameplay Videos/Part 2.gif" width="250" height="250"/>
 
 
 ### Enemies and Obstacles
@@ -29,8 +29,8 @@ Maze Runner is an immersive game where players navigate through mazes, encounter
 - **Obstacles**: Present throughout the maze, requiring navigation skills to avoid.
 - **Helpful Objects**: Found at random locations, these objects assist the player in dealing with enemies and obstacles.
 <div style="display: flex; justify-content: space-between;">
-  <img src="/Gameplay Videos/GIF - part 3.gif" width="250" height="250">
-  <img src="/Gameplay Videos/GIF - part 4.gif" width="250" height="250">
+  <img src="/Gameplay Videos/Part 3.gif" width="250" height="250">
+  <img src="/Gameplay Videos/Part 4.gif" width="250" height="250">
 </div>
 
 
@@ -83,7 +83,7 @@ This is a VR game developed for the Oculus Quest 2 using Unity. To play the game
    - Start the game within the Unity editor.
 
 
-### Installation
+### Installation - Not implemented yet
 1. **Download the APK File**
    - Find the latest release and download the `maze-runner-vr.apk` file to your computer or directly to your VR device.
 
